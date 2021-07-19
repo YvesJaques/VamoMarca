@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "vamomarca",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mysql"
+  }
+}
